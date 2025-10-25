@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "generative-ai-for-beginners Docs": {
+      "type": "sse",
+      "url": "https://gitmcp.io/yxm9927/generative-ai-for-beginners"
+    }
+  }
+}
